@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/crossmatch_v3-7.html" }
+  ]
+}
